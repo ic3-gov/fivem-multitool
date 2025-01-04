@@ -35,8 +35,8 @@ You can customize the application by modifying the `config.json` file to change 
 
 Credits
 -------
-- Created by @desire.tommy
-- Contact: [Discord Profile](https://discord.com/users/1095844809752723547)
+- Created by @desiretommy
+- Contact: [Discord Profile](https://discord.com/users/1016443114526879777)
 
 License
 -------
